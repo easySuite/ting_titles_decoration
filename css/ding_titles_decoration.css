@@ -1,0 +1,4 @@
+.view-mode-full .field-name-ting-title a,
+.pane-search-result div.search-results .heading h2 a {
+    text-decoration: underline;
+}
