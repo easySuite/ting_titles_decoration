@@ -1,0 +1,12 @@
+<?php
+/**
+ * @file
+ * Ting titles decoration.
+ */
+
+/**
+ * Implements hook_init().
+ */
+function ting_titles_decoration_init() {
+  drupal_add_css(drupal_get_path('module', 'ting_titles_decoration') . '/css/ting_titles_decoration.css', array('type' => 'file'));
+}
