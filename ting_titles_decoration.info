@@ -1,4 +1,4 @@
-name = Ding titles decoration
+name = Ting titles decoration
 description = Standalone module for underlining ting_object title.
 core = 7.x
 package = Ding!
